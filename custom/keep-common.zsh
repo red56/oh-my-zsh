@@ -7,3 +7,4 @@ alias ds='du -s * | sort -n'
 alias sar="exec screen -Rd \n "
 
 alias links='noglob links'
+alias git='nocorrect git'
